@@ -12,7 +12,7 @@ namespace ConsoleApp10
         {
             int x = 5;
             int y = 10;
-            Console.WriteLine("5+10={0}",x+y);
+            Console.WriteLine("x+y={0}",x+y);
             Console.ReadKey();
         }
     }
